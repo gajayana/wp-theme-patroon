@@ -1,0 +1,24 @@
+{
+  "name": "patroon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gajayana/wp-theme-patroon.git"
+  },
+  "author": "Yosef Yudha Wijaya <semboyan35@gmail.com> (http://yudhawijaya.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gajayana/wp-theme-patroon/issues"
+  },
+  "homepage": "https://github.com/gajayana/wp-theme-patroon#readme",
+  "devDependencies": {
+    "bootstrap": "^4.0.0-beta.2",
+    "vue": "^2.5.6",
+    "webpack": "^3.8.1"
+  }
+}
