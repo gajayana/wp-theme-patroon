@@ -1,0 +1,14 @@
+{
+    "name": "yudhawijaya/patroon",
+    "description": "A WordPress theme for Patroon Yogyakarta",
+    "require": {
+        "vlucas/phpdotenv": "^2.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yosef Yudha Wijaya",
+            "email": "yosef@yudhawijaya.com"
+        }
+    ]
+}
